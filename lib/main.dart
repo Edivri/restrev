@@ -95,7 +95,7 @@ class _MyHomePageState extends State<MyHomePage>
             children: <Widget>[
               SizedBox(height: 20.0),
               Text(
-                'Chloe Hannouille',
+                'Chloe Benny',
                 style: TextStyle(
                     fontFamily: 'Montserrat',
                     fontSize: 20.0,
