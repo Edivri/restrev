@@ -1,4 +1,4 @@
 # restrev
 ##Screenshots
 
-<img src="restv.png">
+<img src="assets/restv.png">
