@@ -110,7 +110,7 @@ class _MyHomePageState extends State<MyHomePage>
                     color: Colors.grey,
                   ),
                   Text(
-                    'Dhaka-Bangladesh',
+                    'Nigeria',
                     style: TextStyle(
                         fontFamily: 'Montserrat',
                         fontSize: 14.0,
